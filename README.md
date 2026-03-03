@@ -54,7 +54,7 @@ sap-access-risk-analysis/
 │   └── access_risk_queries.sql
 │
 ├── dashboards/
-│   ├── sap_access_dashboard.pbix      # Power BI (optional)
+│   ├── sap_access_dashboard.pbix      # Power BI
 │ 
 │
 └── README.md
